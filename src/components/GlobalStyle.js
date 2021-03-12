@@ -8,7 +8,16 @@ const GlobalStyle = createGlobalStyle`
 }
 
 body {
-    font-family: 'Inter', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+}
+
+button {
+    padding: .5rem .75rem;
+    border: none;
+    border-radius: 10px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: all .5s ease;
 }
 
 `;
