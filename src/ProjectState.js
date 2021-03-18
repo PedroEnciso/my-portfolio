@@ -25,7 +25,7 @@ const ProjectState = () => {
     {
       title: "Guess That Pokemon",
       description:
-        "I used the PokeAPI to create a game that has the user guess a Pokemon’s name given their description. I usedJavascript and Tailwind.",
+        "I used the PokeAPI to create a game that has the user guess a Pokemon’s name given their description. I used Javascript and Tailwind.",
       img: guessThatPokemon,
       project: "https://pokedex-gsm209ouw-pedroenciso.vercel.app/guess.html",
       github: "https://github.com/PedroEnciso/pokedex",
